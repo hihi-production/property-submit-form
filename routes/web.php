@@ -20,4 +20,4 @@ Route::get('/', function () {
 Route::get('dashboard', 'Dashboard\DashboardController@index')->name('dashboard.index');
 Route::get('edit', 'Dashboard\DashboardController@edit')->name('dashboard.edit');
 Route::get('delete', 'Dashboard\DashboardController@delete')->name('dashboard.delete');
-
+Route::get('login', 'Dashboard\DashboardController@login')->name('login');
