@@ -9,8 +9,15 @@ class DashboardController extends Controller
 {
     //
     public function index(){
-        return view('dashboard.index');
+        return view('dashboard.list');
     }
+    public function create(){
+        return view('dashboard.create');
+    }
+    public function edit(){
+        return view('dashboard.edit');
+    }
+
 
     
 }
