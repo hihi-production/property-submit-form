@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-  <title>Login &mdash; Stisla</title>
+  <title>Login</title>
 
   <!-- General CSS Files -->
   <link rel="stylesheet" href="{{asset('dashboard-theme/assets/modules/bootstrap/css/bootstrap.min.css') }}">
@@ -92,20 +92,20 @@
   </div>
 
   <!-- General JS Scripts -->
-  <script src="{{asset('assets/modules/jquery.min.js')}}"></script>
-  <script src="{{asset('assets/modules/popper.js')}}"></script>
-  <script src="{{asset('assets/modules/tooltip.js')}}"></script>
-  <script src="{{asset('assets/modules/bootstrap/js/bootstrap.min.js')}}"></script>
-  <script src="{{asset('assets/modules/nicescroll/jquery.nicescroll.min.js')}}"></script>
-  <script src="{{asset('assets/modules/moment.min.js')}}"></script>
-  <script src="{{asset('assets/js/stisla.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/jquery.min.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/popper.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/tooltip.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/bootstrap/js/bootstrap.min.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/nicescroll/jquery.nicescroll.min.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/moment.min.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/js/stisla.js')}}"></script>
   
   <!-- JS Libraies -->
 
   <!-- Page Specific JS File -->
   
   <!-- Template JS File -->
-  <script src="{{asset('assets/js/scripts.js')}}"></script>
-  <script src="{{asset('assets/js/custom.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/js/scripts.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/js/custom.js')}}"></script>
 </body>
 </html>

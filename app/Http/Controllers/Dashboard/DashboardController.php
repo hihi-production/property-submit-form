@@ -20,6 +20,9 @@ class DashboardController extends Controller
     public function login(){
         return view('dashboard.login');
     }
+    public function register(){
+        return view('dashboard.register');
+    }
 
     
 }
