@@ -44,7 +44,8 @@
                     </figure>
                     <figure>
                       <div class="buttons">
-                        <a href="#" class="btn btn-danger">DELETE</a>
+                        <button class="btn btn-danger trigger--fire-modal-7" data-confirm="Realy?|Do you want to continue?" data-confirm-yes="alert('Deleted :)');">Delete</button>
+                        {{-- <a href="#" class="btn btn-danger">DELETE</a> --}}
                       </div>
                     </figure>
                   </td>
