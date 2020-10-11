@@ -106,12 +106,12 @@
   <script src="{{asset('dashboard-theme/assets/modules/tooltip.js')}}"></script>
   <script src="{{asset('dashboard-theme/assets/modules/bootstrap/js/bootstrap.min.js')}}"></script>
   <script src="{{asset('dashboard-theme/assets/modules/nicescroll/jquery.nicescroll.min.js')}}"></script>
-  <script src="{{asset('daashboard-theme/assets/modules/moment.min.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/moment.min.js')}}"></script>
   <script src="{{asset('dashboard-theme/assets/js/stisla.js')}}"></script>
   
   <!-- JS Libraies -->
-  <script src="assets/modules/jquery-pwstrength/jquery.pwstrength.min.js"></script>
-  <script src="assets/modules/jquery-selectric/jquery.selectric.min.js"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/jquery-pwstrength/jquery.pwstrength.min.js')}}"></script>
+  <script src="{{asset('dashboard-theme/assets/modules/jquery-selectric/jquery.selectric.min.js')}}"></script>
 
   <!-- Page Specific JS File -->
   <script src="{{asset('dashboard-theme/assets/js/page/auth-register.js')}}"></script>
