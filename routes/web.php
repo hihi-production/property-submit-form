@@ -21,3 +21,4 @@ Route::get('dashboard', 'Dashboard\DashboardController@index')->name('dashboard.
 Route::get('edit', 'Dashboard\DashboardController@edit')->name('dashboard.edit');
 Route::get('delete', 'Dashboard\DashboardController@delete')->name('dashboard.delete');
 Route::get('login', 'Dashboard\DashboardController@login')->name('login');
+Route::get('register', 'Dashboard\DashboardController@register')->name('register');
