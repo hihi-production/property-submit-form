@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('client.index');
 });
 
 Route::get('dashboard', 'Dashboard\DashboardController@index')->name('dashboard.index');
