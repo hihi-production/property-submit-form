@@ -1,1 +1,4 @@
-<h1>ini header</h1>
+<!-- Just an image -->
+<nav class="navbar">
+   header
+</nav>
