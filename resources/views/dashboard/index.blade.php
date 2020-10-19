@@ -231,7 +231,7 @@
   
   <!-- JS Libraies -->
 
-  <!-- Page Specific JS File -->
+  <!-- Page Specific JS File -->  
   
   <!-- Template JS File -->
   <script src="{{asset('dashboard-theme/assets/js/scripts.js')}}"></script>

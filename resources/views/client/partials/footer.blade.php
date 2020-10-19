@@ -1,3 +1,3 @@
 <div class="footer">
-    <p>ini footer</p>
+    {{-- <p class="text-center">Copyright @Copyright 2020 Kontrak.in - All right reserved.</p> --}}FOOTER
 </div>
