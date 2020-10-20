@@ -200,8 +200,7 @@
           <ul class="sidebar-menu">
             <li class="menu-header">Menu</li>
              <li><a class="nav-link" href="{{ route('dashboard.index') }}"><i class="far fa-file-alt"></i> <span>List</span></a></li> 
-            {{-- <li><a class="nav-link" href="{{ route('dashboard.edit') }}"><i class="far fa-file-alt"></i> <span>Edit</span></a></li>
-            <li><a class="nav-link" href="{{ route('dashboard.delete') }}"><i class="far fa-file-alt"></i> <span>Delete</span></a></li>  --}}
+           
           </aside>
       </div>
 

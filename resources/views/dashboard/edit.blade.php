@@ -27,22 +27,43 @@
                     <input type="text" class="form-control" id="namaOwner" >
                   </div>
                   <div class="form-group col-md-4">
-                    <label for="noHpOwner">No HP Owner</label>
-                    <input type="text" class="form-control" id="noHpOwner" >
+                    <label>No HP</label>
+                    <div class="input-group">
+                      <div class="input-group-prepend">
+                        <div class="input-group-text">
+                          <i class="fas fa-phone"></i>
+                        </div>
+                      </div>
+                      <input type="text" class="form-control phone-number">
+                    </div>
                   </div>
                 </div>
                 <div class="form-row">
                   <div class="form-group col-md-4">
-                    <label for="alamatKontrakan">Alamat Kontrakan</label>
-                    <input type="text" class="form-control" id="alamatKontrak" >
+                    <label>Alamat</label>
+                    <div class="input-group">
+                      <div class="input-group-prepend">
+                        <div class="input-group-text">
+                          <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                      </div>
+                      <input type="text" class="form-control">
+                    </div>
                   </div>
                   <div class="form-group col-md-4">
                     <label for="jenisKontrakan">Jenis Kontrakan</label>
                     <input type="text" class="form-control" id="jenisKontrakan" >
                   </div>
                   <div class="form-group col-md-4">
-                    <label for="rangeHarga">Range Harga</label>
-                    <input type="text" class="form-control" id="rangeHarga" >
+                    <label>Range Harga</label>
+                    <div class="input-group">
+                      <div class="input-group-prepend">
+                        <div class="input-group-text">
+                          <i class="fas fa-dollar-sign"></i>
+                        </div>
+                      </div>
+                      <input type="text" class="form-control phone-number">
+                    </div>
                   </div>
                 </div>
                 <div class="form-group">
