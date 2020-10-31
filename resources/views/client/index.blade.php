@@ -70,6 +70,57 @@
         </p>
       </div>
     </div>
+
+    
+    <div class="lists">
+      <h3 style="text-bold">List Kontrakan Terbaru</h3>
+      <p>cari rumah, ruko dan tanah yang sesuai</p>
+      <div class="row ">
+        
+        <div class="col-3">
+          <div class="card" >
+          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Ruko</h5>
+              <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="card" >
+          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Ruko</h5>
+              <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="card" >
+          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Ruko</h5>
+              <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="card" >
+          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Ruko</h5>
+              <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
   </div>
 </div>
 
