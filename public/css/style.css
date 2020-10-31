@@ -49,3 +49,11 @@ margin: auto;
 .navbar {
 background: #3498db;
 }
+
+.lists{
+    margin:5% 2%;
+}
+.banner{
+    padding: 3% 0;
+    background: #eeeeee;
+}
