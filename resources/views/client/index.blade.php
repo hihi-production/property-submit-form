@@ -12,19 +12,19 @@
               <div class="col-lg-4 col-md-8 col-sm-12">
                 <div class="form-group">
                   <label for="namaKontrakan">Nama Kontrakan</label>
-                  <input type="text" class="rounded-lg shadow p-3 bg-white rounded form-control" id="namaKontrakan" />
+                  <input type="text" placeholder="Nama Kontrakan" class="rounded-lg shadow p-3 bg-white rounded form-control" id="namaKontrakan" />
                 </div>
               </div>
               <div class="col-lg-4 col-md-8 col-sm-12">
                 <div class="form-group">
                   <label for="namaOwner">Nama Owner</label>
-                  <input type="text" class="rounded-lg shadow p-3 bg-white rounded form-control" id="namaOwner" />
+                  <input type="text" placeholder="Nama Owner" class="rounded-lg shadow p-3 bg-white rounded form-control" id="namaOwner" />
                 </div>
               </div>
               <div class="col-lg-4 col-md-8 col-sm-12">
                 <div class="form-group">
                   <label for="noHP">Email address</label>
-                  <input type="text" class="rounded-lg shadow p-3 bg-white rounded form-control" id="noHP" />
+                  <input type="text" placeholder="Email" class="rounded-lg shadow p-3 bg-white rounded form-control" id="noHP" />
                 </div>
               </div>
             </div>
@@ -32,25 +32,25 @@
               <div class="col-lg-4 col-md-8 col-sm-12">
                 <div class="form-group">
                   <label for="alamatKontrakan">Alamat Kontrakan</label>
-                  <input type="text" class="rounded-lg shadow p-3 bg-white rounded form-control" id="alamatKontrakan" />
+                  <input type="text" placeholder="Alamat Kontrakan" class="rounded-lg shadow p-3 bg-white rounded form-control" id="alamatKontrakan" />
                 </div>
               </div>
               <div class="col-lg-4 col-md-8 col-sm-12">
                 <div class="form-group">
                   <label for="jenisKontrakan">Jenis Kontrakan</label>
-                  <input type="text" class="rounded-lg shadow p-3 bg-white rounded form-control" id="jenisKontrakan"/>
+                  <input type="text" placeholder="Jenis Kontrakan" class="rounded-lg shadow p-3 bg-white rounded form-control" id="jenisKontrakan"/>
                 </div>
               </div>
               <div class="col-lg-4 col-md-8 col-sm-12">
                 <div class="form-group">
                   <label for="rangeHarga">Range Harga</label>
-                  <input type="text" class="rounded-lg shadow p-3 bg-white rounded form-control" id="rangeHarga"/>
+                  <input type="text" placeholder="range harga" class="rounded-lg shadow p-3 bg-white rounded form-control" id="rangeHarga"/>
                 </div>
               </div>
             </div>
             <div class="form-group ">
                 <label for="keteranganTambahan">Keterangan</label>
-                <textarea class="rounded-lg shadow p-3 bg-white rounded form-control" id="keteranganTambahan" rows="3"></textarea>
+                <textarea placeholder="Keterangan" class="rounded-lg shadow p-3 bg-white rounded form-control" id="keteranganTambahan" rows="3"></textarea>
             </div>
             <div class="form-group">
                 <button type="button" class="btn btn-success">Success</button>
