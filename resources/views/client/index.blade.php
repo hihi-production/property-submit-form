@@ -79,7 +79,7 @@
         
         <div class="col-3">
           <div class="card" >
-          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+          <img class="card-img-top" src="https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1143&q=80" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Ruko</h5>
               <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
@@ -89,7 +89,7 @@
         </div>
         <div class="col-3">
           <div class="card" >
-          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+          <img class="card-img-top" src="https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1143&q=80" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Ruko</h5>
               <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
@@ -99,7 +99,7 @@
         </div>
         <div class="col-3">
           <div class="card" >
-          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+          <img class="card-img-top" src="https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1143&q=80" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Ruko</h5>
               <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
@@ -109,7 +109,7 @@
         </div>
         <div class="col-3">
           <div class="card" >
-          <img class="card-img-top" src="{{asset('img/eee.png')}}" alt="Card image cap">
+          <img class="card-img-top" src="https://images.unsplash.com/photo-1576941089067-2de3c901e126?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1143&q=80" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Ruko</h5>
               <p class="card-text">Some quick example text to build on the Ruko and make up the bulk of the card's content.</p>
@@ -120,7 +120,17 @@
       </div>
     </div>
 
-    
+    <div class="banner">
+      <div class="row">
+        <div class="col-12">
+          <div class="text-center">
+            <h4>Punya Aset Tapi Kamu Bingung Manajemennya?<br>Di Kontrakin Aja</h4>
+          <p>cara mudah mengiklankan kontrakan anda secara online</p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
